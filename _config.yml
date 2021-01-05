@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Myo Min Thu # add your name
 author-img: profile.jpg # add your photo
-about-author: I am a bug bounty hunter<br><b>HOF Lists<b><br><a href="#">Google</a><br>Facebook<br> # add description
+about-author: I am a bug bounty hunter<br><br><br>Hall Of Fame<br><br><a target="_blank" href="https://bughunter.withgoogle.com/profile/40b3c633-09ea-476e-b09f-ec00237029c3" style="text-decoration:none">Google</a><br><a target="_blank" href="https://hackerone.com/mailru/thanks/2020?type=team" style="text-decoration:none">Mail.ru</a><br><a target="_blank" href="https://hackerone.com/gitlab" style="text-decoration:none">Gitlab</a><br><a target="_blank" href="https://hackerone.com/dropbox" style="text-decoration:none">Dropbox</a><br><a target="_blank" href="https://hackerone.com/nightmare_msf" style="text-decoration:none">Others</a><br> # add description
 social-twitter: kolayma_mmt # add your Twitter handle
 social-facebook: godofdarkness.msf # add your Facebook handle
 social-github: nightmare-sec # add your Github handle
