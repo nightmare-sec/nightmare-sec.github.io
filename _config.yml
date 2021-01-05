@@ -7,16 +7,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Ko Lay Ma # add your name
+author: Myo Min Thu # add your name
 author-img: profile.jpg # add your photo
-about-author: I am a security researcher. Always hungry to keep hacking. # add description
+about-author: I am a idiot. # add description
 social-twitter: kolayma_mmt # add your Twitter handle
 social-facebook: godofdarkness.msf # add your Facebook handle
 social-github: nightmare-sec # add your Github handle
 social-email: kolayma@protonmail.com # add your Email address
 
 # Disqus
-discus-identifier: Fr33d0m Noob # add your discus identifier
+discus-identifier: Freedom # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
